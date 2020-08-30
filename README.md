@@ -18,7 +18,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+						<span class="avatar"><img src="12441b3f189aad802563cc946819cbec.jpg" alt="" /></span>
 						<h1>Hi! This is <strong>Niranjan</strong>, A warm welcome to my website! :D </h1>
 						<ul class="icons">
 							<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
